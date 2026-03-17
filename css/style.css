@@ -1,0 +1,43 @@
+a.nav-link {
+  color: black;
+  font-weight: 500;
+}
+
+a.navbar-brand {
+  color: black;
+  font-weight: 700;
+}
+
+.dropdown-menu {
+  background-color: #f8f9fa;
+  border: none;
+  box-shadow: none;
+  width: 100%;
+}
+
+.dropdown-menu a {
+  color: black;
+  font-weight: 500;
+  padding: 10px;
+}
+
+.dropdown-menu a:hover {
+  background-color: #e9ecef;
+}
+
+.dropdown-menu .dropdown-divider {
+  margin: 0;
+}
+
+.dropdown-menu .dropdown-header {
+  font-size: 0.875rem;
+  color: #6c757d;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0.5rem 1rem;
+}
+
+.total-row {
+  background-color: grey;
+}
