@@ -2,6 +2,9 @@
 
 A lightweight web application for managing products, inventory movements, sales, and production schedules in a manufacturing environment. It provides a straightforward UI for day‑to‑day operations and reporting.
 
+## Disclaimer
+This project was built in 2023 as part of a university coursework assignment.
+
 ## Video Demo
 [![Watch the demo](https://drive.google.com/thumbnail?id=1Gm72orpyRa2A_LwA1_UyL2JRDS39wHIH&sz=w1200)](https://drive.google.com/file/d/1Gm72orpyRa2A_LwA1_UyL2JRDS39wHIH/preview)
 
