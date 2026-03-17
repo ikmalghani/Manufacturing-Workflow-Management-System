@@ -3,8 +3,6 @@
 A lightweight web application for managing products, inventory movements, sales, and production schedules in a manufacturing environment. It provides a straightforward UI for day‑to‑day operations and reporting.
 
 ## Video Demo
-GitHub README files do not allow embedded iframes or video players for Google Drive links, so the closest reliable option is a clickable preview thumbnail that opens the Drive player.
-
 [![Watch the demo](https://drive.google.com/thumbnail?id=1Gm72orpyRa2A_LwA1_UyL2JRDS39wHIH&sz=w1200)](https://drive.google.com/file/d/1Gm72orpyRa2A_LwA1_UyL2JRDS39wHIH/preview)
 
 If the thumbnail does not load, use this direct preview link:
